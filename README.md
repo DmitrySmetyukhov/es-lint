@@ -1,0 +1,1 @@
+Thinkmobiles JavaScript code style

@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-thinkmobiles",
+  "version": "1.0.0",
+  "description": "eslint configuration",
+  "main": "legacy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Thinkmobiles"
+  },
+  "license": "ISC",
+  "gitHead": "84f496392712a02e34246f95ea59663e32bcbe82",
+  "readme": "ERROR: No README data found!"
+}
